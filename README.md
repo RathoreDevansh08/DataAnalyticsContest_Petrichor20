@@ -1,1 +1,1 @@
-# DataAnalyticsContest_Petrichor20
+Data Analytics - Petrichor2020, IIT Palakkad
